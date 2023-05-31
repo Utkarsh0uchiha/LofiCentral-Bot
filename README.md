@@ -1,4 +1,4 @@
-# LofiCentral-ot
+# LofiCentral-Bot
 
 Lofi Central Bot is a Telegram bot dedicated to providing you with a curated selection of lofi music based on your prompts and preferences. With this bot, you can easily access and enjoy a soothing collection of lofi tracks and playlists, perfect for relaxation, focus, or setting a calming atmosphere.
 
