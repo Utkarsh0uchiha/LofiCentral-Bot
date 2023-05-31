@@ -1,7 +1,7 @@
 
 import telegram.ext
 
-Token = '6255323117:AAHVt4p0DhnckArdkJDA70E7k9oDigGRvVE'
+Token = 'API Key'
 
 updater = telegram.ext.Updater(Token, use_context=True)
 dispatcher = updater.dispatcher
